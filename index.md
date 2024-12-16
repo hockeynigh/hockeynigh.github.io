@@ -16,7 +16,7 @@ For my personal project I decided to buy an old lawn tractor that was broken for
 
 # Header 2
 
-> This is a blockquote following a header.
+This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 

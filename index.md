@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 For my personal project I decided to buy an old lawn tractor that was broken for 50$ on marketplace and restore. The goal of this project was to get the tractor running and looking brand new and also adding a sound system to the tractor so you can listen to music while mowing your lawn. 
 
-## Header 2
+# Header 2
 
 > This is a blockquote following a header.
 >

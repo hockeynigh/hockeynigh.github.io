@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Lawn Tractor Restoration (Personal Project)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+For my personal project I decided to buy an old lawn tractor that was broken for 50$ on marketplace and restore. The goal of this project was to get the tractor running and looking brand new and also adding a sound system to the tractor so you can listen to music while mowing your lawn. 
 
 ## Header 2
 

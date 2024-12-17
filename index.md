@@ -37,5 +37,5 @@ This is a blockquote following a header.
 
 ### Large image
 
-![Branching](/Users/alecbrown/Desktop/HRHS AGENDA COVER PAGE GOOD COPY.png)
+![Branching](file:///Users/alecbrown/Desktop/HRHS%20AGENDA%20COVER%20PAGE%20GOOD%20COPY.png)
 

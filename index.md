@@ -31,7 +31,7 @@ This is a blockquote following a header.
 
 
 
-### Small image
+## Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 

@@ -21,11 +21,6 @@ For my personal project I decided to buy an old lawn tractor that was broken for
 
 <embed src="text effedct 1.pdf" width="800px" height="2100px">
 
-# My First Animation
-
-<video width="320" height="240" controls>
-  <source src="Screen Recording 2023-10-03 at 3.59.34 PM.mov">
-
 # Heritage Huskies Logo
 
 <img src="Back logo.pdf">

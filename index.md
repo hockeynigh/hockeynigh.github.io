@@ -9,33 +9,52 @@ Welcome to my portfolio. Here you will be able to see all the work I have done i
 
 For my personal project I decided to buy an old lawn tractor that was broken for 50$ on marketplace and restore. The goal of this project was to get the tractor running and looking brand new and also adding a sound system to the tractor so you can listen to music while mowing your lawn. 
 
-# Header 2
+# Fallout Poster #1
 
-This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<img src="FALLOUT Poster.png">
 
-# Header 3
+# Fallout Poster #2
 
+<img src="Fallout Poster 2.png">
 
+# John Cena Poster
 
-# Header 4
+<img src="text effedct 1.pdf">
 
-
-
-# Header 5
+# Ping Pong Game
 
 
 
-# Header 6
+# My First Animation
+
+
+
+# Heritage Huskies Logo
+
+<img src="Back logo.pdf">
+
+# Board Game Money Design
+
+<img src="board game 50$ copy.png">
+
+# Musical Poster
+
+<img src="posterproject.pdf">
+
+# Comic Pages V1 & V2
+
+<img src="comic pages v1.pdf">
+
+<img src="comic pages v2.pdf">
+
+# Circle Logo Project
+
+<img src="Circle Logo Project.pdf">
+
+# Photo Gallery Project
+
+<img src="photo gallery good copy.pdf">
+
+# Heritage Agenda Cover Prototype
 
 <img src="HRHS AGENDA COVER PAGE GOOD COPY.png">
-
-# Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Book logo](https://github.com/hockeynigh/hockeynigh.github.io/blob/main/assets/images/HRHS%20AGENDA%20COVER%20PAGE%20GOOD%20COPY.png)
-

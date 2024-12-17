@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Welcome to my portfolio. Here you will be able to see all the work I have done in iCan to date.
+Welcome to my portfolio. Here you will be able to see all the work I have done in iCan to date (the work I can find in my very messy files).
 
 # Lawn Tractor Restoration (Personal Project)
 

@@ -19,11 +19,11 @@ For my personal project I decided to buy an old lawn tractor that was broken for
 
 # John Cena Poster
 
-<embed src="text effedct 1.pdf" width="800px" height="2100px">
+<img src="john cena.png">
 
 # Heritage Huskies Logo
 
-<img src="Back logo.pdf">
+<img src="huskies logo.png">
 
 # Board Game Money Design
 
@@ -31,21 +31,21 @@ For my personal project I decided to buy an old lawn tractor that was broken for
 
 # Musical Poster
 
-<img src="posterproject.pdf">
+<img src="musical poster.png">
 
 # Comic Pages V1 & V2
 
-<img src="comic pages v1.pdf">
+<img src="comic v1.png">
 
-<img src="comic pages v2.pdf">
+<img src="comic v2.png">
 
 # Circle Logo Project
 
-<img src="Circle Logo Project.pdf">
+<img src="circle logo.png">
 
 # Photo Gallery Project
 
-<img src="photo gallery good copy.pdf">
+<img src="photo gallery.png">
 
 # Heritage Agenda Cover Prototype
 

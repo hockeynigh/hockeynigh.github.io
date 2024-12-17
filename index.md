@@ -37,5 +37,5 @@ This is a blockquote following a header.
 
 ### Large image
 
-![Branching](https://github.com/hockeynigh/hockeynigh.github.io/blob/main/assets/images/HRHS%20AGENDA%20COVER%20PAGE%20GOOD%20COPY.png)
+![Book logo](https://github.com/hockeynigh/hockeynigh.github.io/blob/main/assets/images/HRHS%20AGENDA%20COVER%20PAGE%20GOOD%20COPY.png)
 

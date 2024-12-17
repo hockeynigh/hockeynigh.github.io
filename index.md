@@ -29,9 +29,9 @@ This is a blockquote following a header.
 
 # Header 6
 
+<img src="HRHS AGENDA COVER PAGE GOOD COPY.png">
 
-
-## Small image
+# Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 

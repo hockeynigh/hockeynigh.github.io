@@ -19,7 +19,7 @@ For my personal project I decided to buy an old lawn tractor that was broken for
 
 # John Cena Poster
 
-<img src="text effedct 1.pdf">
+<embed src="text effedct 1.pdf" width="800px" height="2100px">
 
 # My First Animation
 

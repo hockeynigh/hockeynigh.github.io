@@ -2,13 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Welcome to my portfolio. Here you will be able to see all the work I have done in iCan since I have started my journey in the program.
 
 # Lawn Tractor Restoration (Personal Project)
 

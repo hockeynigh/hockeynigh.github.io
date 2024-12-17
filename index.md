@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Welcome to my portfolio. Here you will be able to see all the work I have done in iCan since I have started my journey in the program.
+Welcome to my portfolio. Here you will be able to see all the work I have done in iCan and on my personal time since I have started my journey in the computer world.
 
 # Lawn Tractor Restoration (Personal Project)
 

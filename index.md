@@ -61,4 +61,4 @@ For my personal project I decided to buy an old lawn tractor that was broken for
 <img src="IMG_3111.png">
 
 # Sim Racing Team Website
-<a href="https://rimracing.wixsite.com/rim-racing">Homepage</a>
+<img src="rim racing homepage.png">

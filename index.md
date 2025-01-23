@@ -56,3 +56,9 @@ For my personal project I decided to buy an old lawn tractor that was broken for
 
 # Car Radio 3D Model
 <img src="Screenshot 2025-01-23 143946.png">
+
+# Sim Racing Button Box
+<img src="IMG_3111.png">
+
+# Sim Racing Team Website
+<a href="https://rimracing.wixsite.com/rim-racing">Homepage</a>

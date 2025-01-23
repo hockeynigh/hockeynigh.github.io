@@ -50,3 +50,9 @@ For my personal project I decided to buy an old lawn tractor that was broken for
 # Heritage Agenda Cover Prototype
 
 <img src="HRHS AGENDA COVER PAGE GOOD COPY.png">
+
+# Reciprocator 3D Model
+<img src="Screenshot 2025-01-23 143907.png">
+
+# Car Radio 3D Model
+<img src="Screenshot 2025-01-23 143946.png">

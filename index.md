@@ -7,7 +7,7 @@ Welcome to my portfolio. Here you will be able to see all the work I have done i
 
 # Lawn Tractor Restoration (Personal Project)
 
-For my personal project I decided to buy an old lawn tractor that was broken for 50$ on marketplace and restore. The goal of this project was to get the tractor running and looking brand new and also adding a sound system to the tractor so you can listen to music while mowing your lawn. 
+For my personal project I decided to buy an old lawn tractor that was broken for 50$ on marketplace and restore. The goal of this project was to get the tractor running and also adding a sound system to the tractor so you can listen to music while mowing your lawn. 
 
 # Fallout Poster #1
 
